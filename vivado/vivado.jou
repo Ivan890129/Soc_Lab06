@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Dec 14 10:11:56 2023
+# Process ID: 56188
+# Current directory: /home/ubuntu/Lab06/vivado
+# Command line: vivado
+# Log file: /home/ubuntu/Lab06/vivado/vivado.log
+# Journal file: /home/ubuntu/Lab06/vivado/vivado.jou
+# Running On: ubuntu2004, OS: Linux, CPU Frequency: 2111.998 MHz, CPU Physical cores: 2, Host memory: 10425 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/ubuntu/Lab06/vivado/vvd_caravel_fpga/vvd_caravel_fpga.xpr
+open_run impl_1
+update_compile_order -fileset sources_1
+report_utilization -name utilization_1
