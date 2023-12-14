@@ -1,5 +1,7 @@
 # WorkLoad Optimize SOC (WLOS) Baseline
 
+### 整合的firware寫在testbench/combine裡面
+
 ### Simulation for matrix multiplication
 ```sh
 cd ~/caravel-soc_fpga-lab/lab-wlos_baseline/testbench/counter_la_mm
